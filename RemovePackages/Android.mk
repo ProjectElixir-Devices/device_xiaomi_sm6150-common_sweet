@@ -35,7 +35,6 @@ LOCAL_OVERRIDES_PACKAGES := \
     PlayAutoInstallConfig \
     PrebuiltGmail \
     RecorderPrebuilt \
-    SafetyHubPrebuilt \
     SCONE \
     ScribePrebuilt \
     Showcase \
