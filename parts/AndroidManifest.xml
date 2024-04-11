@@ -64,6 +64,9 @@
                 android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.system" />
             <meta-data
+                android:name="com.android.settings.keyhint"
+                android:value="elixir_system_extra_pref" />
+            <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/thermal_summary" />
             <meta-data
