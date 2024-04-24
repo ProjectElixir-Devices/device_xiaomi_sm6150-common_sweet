@@ -26,11 +26,11 @@ vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc
 # ANT+
 -vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 
-# Audio (Spatial) - from tangorpro-user-14-UQ1A.231205.015
-vendor/lib/soundfx/libspatialaudio.so|1903f9c98b38728970ddd12094fa15d96e9d2a5b
-vendor/lib/aoc_audio_stereo_spatializer.so|f443a38e4c5654966dbcc89673ade51c0e27eea3
-vendor/lib64/soundfx/libspatialaudio.so|0242ecf82a322d6654d859123d4dd221c3c2bf12
-vendor/lib64/aoc_audio_stereo_spatializer.so|45c5055d36c51e2756089ee3e4c02bc204b93402
+# Audio (Spatial) - from tangorpro-user-14-AP1A.240305.019.A1
+vendor/lib/aoc_audio_stereo_spatializer.so|f715e32bbae5b935d14db110f33de17589ecfd04
+vendor/lib/soundfx/libspatialaudio.so|f6b3bfb39ef6ad709494d016f28fd057d79b6085
+vendor/lib64/aoc_audio_stereo_spatializer.so|8b6e72d78cc1c1ea20ccffcdb8cd42e8062c78e4
+vendor/lib64/soundfx/libspatialaudio.so|7653a31d0d374800cb3c078b88e2937d3ef0bdb0
 
 # Audio FX modules
 system_ext/etc/permissions/audiosphere.xml
